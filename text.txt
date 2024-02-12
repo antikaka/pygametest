@@ -1,0 +1,37 @@
+
+problema:
+scalebility?
+patikra kas liečiasi?
+patikra kiek liečiasi?
+kas su kuo mušasi?
+target search?
+
+gal du dict, sarasas gyvu?
+
+hp ir pos į dict, netinka nes reikia vardo
+
+akv1 vs bkv1
+
+.movement
+labai daug tikrinimo
+
+kas iš tikrųjų būtina?
+hp
+pos (dėl tikrinimų?)
+
++pereini per dict,
++tikrini kas gyvas,
++tikrini kas arčiausias,
++judi link jo,
+?+patikra kai liečiasi,
+mušasi,
+patikra kada pabaiga,
+toliau kartot?
+
+
+.Rect
+perdaryt, kad veiktu colide
+atstumt vieną nuo kito kurie colide
+
+move true ar reikia?
+last move ar reikia?
