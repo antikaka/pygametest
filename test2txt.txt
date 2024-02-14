@@ -1,0 +1,7 @@
+
+rotate by collision:
+kai coll įvyksta, apskaiciuoji visus kampus, pagal collision target
+nusprendi kurį kampą versti, verti iki 90 laipsnių
+
+per visą šitą laiką paprastas coll (+up) vis dar veikia,
+dėl to nereikia rūpintis dėl šonų stumdymo?
